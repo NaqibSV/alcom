@@ -1,11 +1,4 @@
 <tbody>
-<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:0:viewColumn1:_internalViewText">32</span></td>
-<td role="gridcell" colspan="10"><div><button id="view:_id1:_id2:callback1:viewPanel1:0:viewColumn2__shrink:1button" type="button" title="expanded 2025" style="border:none;background-color:transparent;cursor:pointer;width:20px;"><img id="view:_id1:_id2:callback1:viewPanel1:0:viewColumn2__shrink:1img" alt="expanded 2025" src="/xsp/.ibmxspres/.extlib/responsive/xpages/img/view_expanded.png"></button><a id="view:_id1:_id2:callback1:viewPanel1:0:viewColumn2__shrink:1link" style="cursor:pointer;">2025</a></div></td>
-</tr>
-<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:1:viewColumn1:_internalViewText">32</span></td>
-<td role="gridcell"></td>
-<td role="gridcell" colspan="9"><div><button id="view:_id1:_id2:callback1:viewPanel1:1:viewColumn3__shrink:1.1button" type="button" title="expanded Alcom Sheet and Foil" style="border:none;background-color:transparent;cursor:pointer;width:20px;"><img id="view:_id1:_id2:callback1:viewPanel1:1:viewColumn3__shrink:1.1img" alt="expanded Alcom Sheet and Foil" src="/xsp/.ibmxspres/.extlib/responsive/xpages/img/view_expanded.png"></button><a id="view:_id1:_id2:callback1:viewPanel1:1:viewColumn3__shrink:1.1link" style="cursor:pointer;">Alcom Sheet and Foil</a></div></td>
-</tr>
 <tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:2:viewColumn1:_internalViewText">1</span></td>
 <td role="gridcell"></td>
 <td role="gridcell"></td>
