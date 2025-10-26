@@ -1,0 +1,359 @@
+<tbody>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:0:viewColumn1:_internalViewText">32</span></td>
+<td role="gridcell" colspan="10"><div><button id="view:_id1:_id2:callback1:viewPanel1:0:viewColumn2__shrink:1button" type="button" title="expanded 2025" style="border:none;background-color:transparent;cursor:pointer;width:20px;"><img id="view:_id1:_id2:callback1:viewPanel1:0:viewColumn2__shrink:1img" alt="expanded 2025" src="/xsp/.ibmxspres/.extlib/responsive/xpages/img/view_expanded.png"></button><a id="view:_id1:_id2:callback1:viewPanel1:0:viewColumn2__shrink:1link" style="cursor:pointer;">2025</a></div></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:1:viewColumn1:_internalViewText">32</span></td>
+<td role="gridcell"></td>
+<td role="gridcell" colspan="9"><div><button id="view:_id1:_id2:callback1:viewPanel1:1:viewColumn3__shrink:1.1button" type="button" title="expanded Alcom Sheet and Foil" style="border:none;background-color:transparent;cursor:pointer;width:20px;"><img id="view:_id1:_id2:callback1:viewPanel1:1:viewColumn3__shrink:1.1img" alt="expanded Alcom Sheet and Foil" src="/xsp/.ibmxspres/.extlib/responsive/xpages/img/view_expanded.png"></button><a id="view:_id1:_id2:callback1:viewPanel1:1:viewColumn3__shrink:1.1link" style="cursor:pointer;">Alcom Sheet and Foil</a></div></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:2:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:2:viewColumn4:_internalViewText">CN=Ahmad Fadzlee Shah/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:2:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=253BB1842BFAB2A148258D17000C4BEE&amp;action=editDocument">003090</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:2:viewColumn6:_internalViewText" style="white-space:nowrap;">01-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:2:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=253BB1842BFAB2A148258D17000C4BEE&amp;action=editDocument">Safety Near-Miss</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:2:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:2:viewColumn9:_internalViewText">After lunch TM stands and his head just miss the deco lamp on the wall. Although may not look like it but the lamp design with multiple edges may cause cut or puncture if hit</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:2:viewColumn10:_internalViewText">Unit Leader/Manager Review &amp; Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:2:viewColumn11:_internalViewText">Human Resources</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:3:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:3:viewColumn4:_internalViewText">CN=Chee-Thiam Sia/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:3:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=176A8FAE22464CEC48258D1B004D3C0F&amp;action=editDocument">003098</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:3:viewColumn6:_internalViewText" style="white-space:nowrap;">06-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:3:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=176A8FAE22464CEC48258D1B004D3C0F&amp;action=editDocument">Hazardous Condition or Practice</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:3:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:3:viewColumn9:_internalViewText">It was observed spools was stack too high at spool release. Refer photo attached.</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:3:viewColumn10:_internalViewText">Draft</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:3:viewColumn11:_internalViewText">Foil Rolling</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:4:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:4:viewColumn4:_internalViewText">CN=Izwan Hamidi Mohamad Haira/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:4:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=E05828C8F130FDD448258C0E001BAF1A&amp;action=editDocument">003055</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:4:viewColumn6:_internalViewText" style="white-space:nowrap;">10-01-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:4:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=E05828C8F130FDD448258C0E001BAF1A&amp;action=editDocument">Other</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:4:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:4:viewColumn9:_internalViewText">Pada pukul 09:30 pagi telah berlaku kejadian aluminium cecair panas melimpah keluar dari launder penyambung ACD dengan CFF , limpahan berlaku disebabkan oleh level cecair naik tinggi kerana terdapat penyumbatan pada ceramic filter di dalam CFF bowl.Limpahan telah meleleh masuk ke dalam lantai longkang bertutup di bawah ACD lalu membuat asap berkepul keluar serta berlaku letupan kecil dari dalam longkang.Operator bertindak mengawal limpahan serta membuka penutup longkang lalu menyembur alat pemadam api Dry powder bagi mengelakkan berlakunya kebakaran.Sebanya 3 silinder 9kg Dry powder di gunakkan dan tiada kecederaan pada pekerja.Keadaan terkawal sepenuhnya setelah di sembur dry powder dan asap pun mula hilang.Siasatan akan dilakukan untuk mengesan kerosakan jika ada dan Caster line beroperasi seperti biasa tanpa downtime.</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:4:viewColumn10:_internalViewText">EHS Review &amp; Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:4:viewColumn11:_internalViewText">Caster Line 3</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:5:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:5:viewColumn4:_internalViewText">CN=Izwan Hamidi Mohamad Haira/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:5:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=AC04AC137B2890F548258D2300117F92&amp;action=editDocument">003105</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:5:viewColumn6:_internalViewText" style="white-space:nowrap;">14-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:5:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=AC04AC137B2890F548258D2300117F92&amp;action=editDocument">Safety Near-Miss</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:5:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:5:viewColumn9:_internalViewText">The pedestrian walk to plant was block by old roofing from the demolished building. It's  danger when people need to walk on the road side at this area.</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:5:viewColumn10:_internalViewText">EHS Review &amp; Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:5:viewColumn11:_internalViewText">Buildings &amp; Grounds</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:6:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:6:viewColumn4:_internalViewText">CN=Izwan Hamidi Mohamad Haira/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:6:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=84AD4AF041F997AC48258D26002AE0DD&amp;action=editDocument">003110</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:6:viewColumn6:_internalViewText" style="white-space:nowrap;">17-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:6:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=84AD4AF041F997AC48258D26002AE0DD&amp;action=editDocument">Fire or Explosion</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:6:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:6:viewColumn9:_internalViewText">On Oct 17th, around 10:44am, R7 was rolling coil A3102 G001791 final pass of 0.115mm X 1080mm, mill speed max at 906mpm, and as the coil is slowing down and mill already stopped, suddenly fire ignited at the DS of the mill. The fire seen by Operator Group Leader Khairul Fahmie &amp; myself inside the pulpit. Khairul pushed the MILL CO2 activation button to put out the fire. Mill CO2 discharged as per triggered and put out the fire. No injury to the crews. Mill is still as of 3:30pm under checking by electrical team on the affected part. One VMMC card found to be faulty where the alarm appears as VMMC UNIT ABNORMAL , could be the effect of the overload during the mill fire</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:6:viewColumn10:_internalViewText">EHS Review &amp; Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:6:viewColumn11:_internalViewText">Foil Rolling</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:7:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:7:viewColumn4:_internalViewText">CN=Izwan Hamidi Mohamad Haira/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:7:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=F318AFA50F78229648258D2B0013DE46&amp;action=editDocument">003114</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:7:viewColumn6:_internalViewText" style="white-space:nowrap;">15-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:7:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=F318AFA50F78229648258D2B0013DE46&amp;action=editDocument">Hazardous Condition or Practice</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:7:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:7:viewColumn9:_internalViewText">Paper core stack to high can cause topple due to unstable
+</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:7:viewColumn10:_internalViewText">EHS Review &amp; Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:7:viewColumn11:_internalViewText">Finishing </span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:8:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:8:viewColumn4:_internalViewText">CN=Izwan Hamidi Mohamad Haira/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:8:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=A520586503E6647B48258D2B0017857D&amp;action=editDocument">003115</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:8:viewColumn6:_internalViewText" style="white-space:nowrap;">21-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:8:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=A520586503E6647B48258D2B0017857D&amp;action=editDocument">Hazardous Condition or Practice</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:8:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:8:viewColumn9:_internalViewText">A new staircase to building roof is without access control. Unauthorized personal can gain access to building roof since it is without gated door. This unsafe condition can lead to safety risk if unauthorized person without WAH training go to roof/chimney</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:8:viewColumn10:_internalViewText">Draft</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:8:viewColumn11:_internalViewText">Finishing </span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:9:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:9:viewColumn4:_internalViewText">CN=Izwan Hamidi Mohamad Haira/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:9:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=44A6EED3B70528FF48258D2D0022BCF8&amp;action=editDocument">003120</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:9:viewColumn6:_internalViewText" style="white-space:nowrap;">10-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:9:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=44A6EED3B70528FF48258D2D0022BCF8&amp;action=editDocument">Safety Near-Miss</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:9:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:9:viewColumn9:_internalViewText">On 10 oct 2025, While  Saufi Open the bridal roll 3 gate at coater line 2, notice the handle with machine guard structure ZERO GAP. Refer photo. His hand will get caught (pinch) between handle and machine guarding structure
+</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:9:viewColumn10:_internalViewText">EHS Review &amp; Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:9:viewColumn11:_internalViewText">ANSC Plant</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:10:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:10:viewColumn4:_internalViewText">CN=Lee Jung Won/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:10:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=35D09EB30A27783A48258D0A001DF51E&amp;action=editDocument">003083</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:10:viewColumn6:_internalViewText" style="white-space:nowrap;">18-09-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:10:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=35D09EB30A27783A48258D0A001DF51E&amp;action=editDocument">Safety Near-Miss</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:10:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:10:viewColumn9:_internalViewText">During gemba walk, sudden kick the protruded wall plug on the floor at CL1-Paint station 1. The wall plug not cut properly. Can cause tripping</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:10:viewColumn10:_internalViewText">Plant Director Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:10:viewColumn11:_internalViewText">Coater Line 1</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:11:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:11:viewColumn4:_internalViewText">CN=Lee Jung Won/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:11:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=D4F5C22741FE015748258D0F005BDD68&amp;action=editDocument">003087</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:11:viewColumn6:_internalViewText" style="white-space:nowrap;">22-09-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:11:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=D4F5C22741FE015748258D0F005BDD68&amp;action=editDocument">Safety Near-Miss</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:11:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:11:viewColumn9:_internalViewText">While azlan  was standing  on the platform stand  to make a roll change  next  kiss side area.suddenly platform stand he was standing broke at weld connection .. He was lucky able to climb onto the machine guarding .if he had fallen it  could have cause injury </span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:11:viewColumn10:_internalViewText">Plant Director Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:11:viewColumn11:_internalViewText">Coater Line 2</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:12:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:12:viewColumn4:_internalViewText">CN=Lee Jung Won/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:12:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=D0622955832BD47D48258D1C002EBA7C&amp;action=editDocument">003101</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:12:viewColumn6:_internalViewText" style="white-space:nowrap;">07-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:12:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=D0622955832BD47D48258D1C002EBA7C&amp;action=editDocument">Hazardous Condition or Practice</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:12:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:12:viewColumn9:_internalViewText">Found one electric socket burnt when conduct the gemba at Metal yard. immediately issue fixx and inform chargeman to replace new socket.</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:12:viewColumn10:_internalViewText">Plant Director Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:12:viewColumn11:_internalViewText">Metal Yard</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:13:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:13:viewColumn4:_internalViewText">CN=Lee Jung Won/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:13:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=C19E26EF4C3239E148258D1F0009D621&amp;action=editDocument">003102</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:13:viewColumn6:_internalViewText" style="white-space:nowrap;">09-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:13:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=C19E26EF4C3239E148258D1F0009D621&amp;action=editDocument">Safety Near-Miss</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:13:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:13:viewColumn9:_internalViewText">On 9th October 2025 08:55 am, Nar Bahadur (AN0228)  was walking at packing area and during that time there were nail gun lying on the floor. There are potential of nail gun to get trigger and nail to struck Nar or other operator’s legs.</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:13:viewColumn10:_internalViewText">Plant Director Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:13:viewColumn11:_internalViewText">ANSC Plant</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:14:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:14:viewColumn4:_internalViewText">CN=Lee Jung Won/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:14:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=90B12C12B2986C8F48258D1B000E0567&amp;action=editDocument">003103</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:14:viewColumn6:_internalViewText" style="white-space:nowrap;">06-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:14:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=90B12C12B2986C8F48258D1B000E0567&amp;action=editDocument">Safety Near-Miss</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:14:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:14:viewColumn9:_internalViewText">The low-hanging motor unit poses a head injury risk to workers performing tasks near the canteen used oil storage area. The structure is positioned at head level, and without any guard or warning signage, workers may accidentally bump into it or get injured during site work or inspection activities
+</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:14:viewColumn10:_internalViewText">Plant Director Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:14:viewColumn11:_internalViewText">Technical</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:15:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:15:viewColumn4:_internalViewText">CN=Lee Jung Won/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:15:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=F0337DB1C6D09E1948258D2400194639&amp;action=editDocument">003106</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:15:viewColumn6:_internalViewText" style="white-space:nowrap;">28-08-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:15:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=F0337DB1C6D09E1948258D2400194639&amp;action=editDocument">Safety Near-Miss</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:15:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:15:viewColumn9:_internalViewText">
+Pada 28/9/2025, Mahfud cuba menutup tingkap namun tidak dapat dirapatkan sepenuhnya. Cuba menolak tingkap dari luar semasa melepaskan pemegang tingkap tiba-tiba jatuh ke bawah dan pecah.
+</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:15:viewColumn10:_internalViewText">Plant Director Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:15:viewColumn11:_internalViewText">Technical</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:16:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:16:viewColumn4:_internalViewText">CN=Lee Jung Won/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:16:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=17B15D228DF83EEE48258D250024FC61&amp;action=editDocument">003107</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:16:viewColumn6:_internalViewText" style="white-space:nowrap;">16-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:16:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=17B15D228DF83EEE48258D250024FC61&amp;action=editDocument">Safety Near-Miss</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:16:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:16:viewColumn9:_internalViewText">On Oct 16th, around 11:30am, Ratan want to use the R11 for spool release, then he reported that we saw smoke coming out from the driver cockpit at the key switch area. He suspect wiring problem, and later he used the fire extinguisher to put out the smoke as it continuously emitted from the key switch. </span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:16:viewColumn10:_internalViewText">Plant Director Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:16:viewColumn11:_internalViewText">Foil Rolling</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:17:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:17:viewColumn4:_internalViewText">CN=Lee Jung Won/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:17:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=DAC820B27EA831BC48258D2500332CB5&amp;action=editDocument">003108</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:17:viewColumn6:_internalViewText" style="white-space:nowrap;">16-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:17:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=DAC820B27EA831BC48258D2500332CB5&amp;action=editDocument">Safety Near-Miss</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:17:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:17:viewColumn9:_internalViewText">PET strapping band (used for packaging) is left loosely across the floor, creating a tripping hazard in the work area
+</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:17:viewColumn10:_internalViewText">Plant Director Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:17:viewColumn11:_internalViewText">Finishing </span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:18:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:18:viewColumn4:_internalViewText">CN=Lee Jung Won/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:18:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=1575CC3B1D5E30F848258D2500346E57&amp;action=editDocument">003109</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:18:viewColumn6:_internalViewText" style="white-space:nowrap;">13-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:18:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=1575CC3B1D5E30F848258D2500346E57&amp;action=editDocument">Safety Near-Miss</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:18:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:18:viewColumn9:_internalViewText">Puncture/impalement hazard: the nails are sharp and exposed; walking in the walkway between canteen and general store could get punctured or scratched
+</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:18:viewColumn10:_internalViewText">Plant Director Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:18:viewColumn11:_internalViewText">Technical</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:19:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:19:viewColumn4:_internalViewText">CN=Lee Jung Won/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:19:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=CA055A363D14676448258D2600282247&amp;action=editDocument">003111</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:19:viewColumn6:_internalViewText" style="white-space:nowrap;">05-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:19:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=CA055A363D14676448258D2600282247&amp;action=editDocument">Safety Near-Miss</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:19:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:19:viewColumn9:_internalViewText">On 5th October 2025, Gabriel wanted to close the projector screen, suddenly, the projector screen was fell from its position. Luckily, no one was injured.
+</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:19:viewColumn10:_internalViewText">Plant Director Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:19:viewColumn11:_internalViewText">Technical</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:20:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:20:viewColumn4:_internalViewText">CN=Mohamad Alias/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:20:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=7629D3306481041248258D0A00631C21&amp;action=editDocument">003084</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:20:viewColumn6:_internalViewText" style="white-space:nowrap;">19-09-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:20:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=7629D3306481041248258D0A00631C21&amp;action=editDocument">Property Damage</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:20:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:20:viewColumn9:_internalViewText">Pada tarikh 19.09.2025 masa 18:16pm telah berlaku kebakaran forklift F21 di hadapan mesin foil slitter. Pada masa kejadian TM sedang memandu forklift F21 untuk mengalihkan coil di hadapan mesin foil slitter. Tidak lama kemudian forklift berkenaan telah mengeluarkan asap dan percikan api pada bahagian stering forklift. Sejurus itu TM bertindak untuk turun dari forklift untuk mencapai pemadam api dan memadam api yang mula membesar. Pada masa yang sama pemadam api pada forklift telah habis di gunakan terus TM meluru ke mesin untuk mengambil pemadam api yang berada di mesin dan terus memadam kebakaran sehingga api terpadam. Tiada kecederaan berlaku terhadap TM hanya kerosakan kepada forklift F21</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:20:viewColumn10:_internalViewText">Draft</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:20:viewColumn11:_internalViewText">Finishing Department</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:21:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:21:viewColumn4:_internalViewText">CN=Mohamad Suhaimi Harun/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:21:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=5A380E001008F89548258C58002F7489&amp;action=editDocument">003060</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:21:viewColumn6:_internalViewText" style="white-space:nowrap;">24-03-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:21:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=5A380E001008F89548258C58002F7489&amp;action=editDocument">Property Damage</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:21:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:21:viewColumn9:_internalViewText">During Team A pulling out BUR unit from mill for mill maintenance preparation, TM Rozali forget to plug out hydraulic hose from BUR coupling and resulting hose coupling damage &amp; bend.</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:21:viewColumn10:_internalViewText">Draft</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:21:viewColumn11:_internalViewText">Foil Rolling ( R7)</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:22:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:22:viewColumn4:_internalViewText">CN=Mohd Asri-Utoh/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:22:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=E96115C974CC6C6948258C84001AAC2B&amp;action=editDocument">003062</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:22:viewColumn6:_internalViewText" style="white-space:nowrap;">07-05-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:22:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=E96115C974CC6C6948258C84001AAC2B&amp;action=editDocument">Property Damage</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:22:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:22:viewColumn9:_internalViewText">Semasa Riduan mengangkat FG menggunakan forklift untuk dinaikan keatas lori , Tiba tiba coil jatuh dari forklift bersebelahan lori. Punca kejadian disebabkan oleh kedudukan  battern coil yang tidak stabil pada fork. Ini telah menyebabkan kayu battern patah dan menyebabkan coil jatuh. Punca permukaan jalan yang berlobang juga boleh menyebabkan insiden berlaku.
+HU no : Z25503002
+Batch no : A753273002 
+Alloy : 1100 - H14
+Weight  - Nett : 768      Gross : 783
+</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:22:viewColumn10:_internalViewText">Draft</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:22:viewColumn11:_internalViewText">Finishing Department</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:23:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:23:viewColumn4:_internalViewText">CN=Mohd Asri-Utoh/O=Alcom,CN=Mohamad Alias/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:23:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=62631E6A4E78909448258C84001B022D&amp;action=editDocument">003063</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:23:viewColumn6:_internalViewText" style="white-space:nowrap;">07-05-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:23:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=62631E6A4E78909448258C84001B022D&amp;action=editDocument">Property Damage</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:23:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:23:viewColumn9:_internalViewText">Semasa Riduan mengangkat FG menggunakan forklift untuk dinaikan keatas lori , Tiba tiba coil jatuh dari forklift bersebelahan lori. Punca kejadian disebabkan oleh kedudukan  battern coil yang tidak stabil pada fork. Ini telah menyebabkan kayu battern patah dan menyebabkan coil jatuh. Punca permukaan jalan yang berlobang juga boleh menyebabkan insiden berlaku.</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:23:viewColumn10:_internalViewText">Unit Leader/Manager Review &amp; Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:23:viewColumn11:_internalViewText">Finishing Department</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:24:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:24:viewColumn4:_internalViewText">CN=Mohd Rusni Darus/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:24:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=54EB47B0E2290DAC48258D17000DAE8F&amp;action=editDocument">003091</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:24:viewColumn6:_internalViewText" style="white-space:nowrap;">01-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:24:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=54EB47B0E2290DAC48258D17000DAE8F&amp;action=editDocument">Hazardous Condition or Practice</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:24:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:24:viewColumn9:_internalViewText">TM was sitting on one of the couch in canteen with damage legging</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:24:viewColumn10:_internalViewText">Unit Leader/Manager Review &amp; Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:24:viewColumn11:_internalViewText">Facility</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:25:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:25:viewColumn4:_internalViewText">CN=Muhammad Akram/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:25:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=6677B4D45128746648258D2B00672BB6&amp;action=editDocument">003116</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:25:viewColumn6:_internalViewText" style="white-space:nowrap;">06-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:25:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=6677B4D45128746648258D2B00672BB6&amp;action=editDocument">Hazardous Condition or Practice</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:25:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:25:viewColumn9:_internalViewText">The uneven road to the Metal Yard can be dangerous for forklift drivers when transporting scrap from Cold Rolling.</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:25:viewColumn10:_internalViewText">Draft</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:25:viewColumn11:_internalViewText">Buildings &amp; Grounds</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:26:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:26:viewColumn4:_internalViewText">CN=Muhammad Khalis Abdul Aziz/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:26:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=25F2ED2546369CD948258D1B00085E32&amp;action=editDocument">003092</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:26:viewColumn6:_internalViewText" style="white-space:nowrap;">05-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:26:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=25F2ED2546369CD948258D1B00085E32&amp;action=editDocument">Safety Near-Miss</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:26:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:26:viewColumn9:_internalViewText">SA charge car platform slanting </span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:26:viewColumn10:_internalViewText">Draft</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:26:viewColumn11:_internalViewText">Sheet Annealer</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:27:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:27:viewColumn4:_internalViewText">CN=Muhammad Khalis Abdul Aziz/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:27:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=9231977C30763BB248258D1C000A70A4&amp;action=editDocument">003100</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:27:viewColumn6:_internalViewText" style="white-space:nowrap;">07-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:27:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=9231977C30763BB248258D1C000A70A4&amp;action=editDocument">Safety Near-Miss</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:27:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:27:viewColumn9:_internalViewText">FA1 floor damaged and uneven . </span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:27:viewColumn10:_internalViewText">Draft</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:27:viewColumn11:_internalViewText">Foil Annealer</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:28:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:28:viewColumn4:_internalViewText">CN=Naqiuddin Yacob/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:28:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=25FC51A2FC3FB9C148258D22008085C2&amp;action=editDocument">003104</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:28:viewColumn6:_internalViewText" style="white-space:nowrap;">13-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:28:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=25FC51A2FC3FB9C148258D22008085C2&amp;action=editDocument">Property Damage</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:28:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:28:viewColumn9:_internalViewText">On 13th October at around 4:00 p.m., after completing the unloading of scrap at Metal Yard Block A, the lorry driver drove the vehicle and accidentally hit the brick wall at Metal Yard Block A. No injury reported.</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:28:viewColumn10:_internalViewText">Draft</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:28:viewColumn11:_internalViewText">Metal Yard</span></td>
+</tr>
+<tr role="row"><td role="gridcell" class="xspBootstrapRowIcon"><span id="view:_id1:_id2:callback1:viewPanel1:29:viewColumn1:_internalViewText">1</span></td>
+<td role="gridcell"></td>
+<td role="gridcell"></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:29:viewColumn4:_internalViewText">CN=Suhaimi Abdullah/O=Alcom</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:29:viewColumn5:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=9E342AFA3C886C8048258D2C000E1A24&amp;action=editDocument">003117</a></td>
+<td role="gridcell" style="white-space:nowrap;"><span id="view:_id1:_id2:callback1:viewPanel1:29:viewColumn6:_internalViewText" style="white-space:nowrap;">23-10-2025</span></td>
+<td role="gridcell"><a id="view:_id1:_id2:callback1:viewPanel1:29:viewColumn7:_internalColumnLink" href="/Application/alcom-newaccident.nsf/doc.xsp?documentId=9E342AFA3C886C8048258D2C000E1A24&amp;action=editDocument">Hazardous Condition or Practice</a></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:29:viewColumn8:_internalViewText">&nbsp;</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:29:viewColumn9:_internalViewText">Forklift stuck due to the muddy and potholed surface can cause incident 
+</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:29:viewColumn10:_internalViewText">Unit Leader/Manager Review &amp; Approval</span></td>
+<td role="gridcell"><span id="view:_id1:_id2:callback1:viewPanel1:29:viewColumn11:_internalViewText">Finishing </span></td>
+</tr>
+</tbody>
